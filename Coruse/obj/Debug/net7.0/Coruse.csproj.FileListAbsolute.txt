@@ -1,0 +1,14 @@
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\bin\Debug\net7.0\Coruse.exe
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\bin\Debug\net7.0\Coruse.deps.json
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\bin\Debug\net7.0\Coruse.runtimeconfig.json
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\bin\Debug\net7.0\Coruse.dll
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\bin\Debug\net7.0\Coruse.pdb
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.dll
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\refint\Coruse.dll
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.pdb
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\Coruse.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Documentos\Visual Studio\Coruse\Coruse\obj\Debug\net7.0\ref\Coruse.dll
